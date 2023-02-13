@@ -2,7 +2,7 @@
 <p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>Diagrama Entidade-Relacionamento</h2>
-![Diagrama Entidade-Relacionamento](https://github.dev/Pitossomo/academia-digital/blob/master/DiagramaER.png)
+<img alt="Diagrama Entidade-Relacionamento" src="./DiagramaER.png" />
 
 <h2>🎯 Objetivo do Projeto</h2>
 <p>Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
